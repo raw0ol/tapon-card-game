@@ -85,10 +85,10 @@ class CPU(Player):
         return f"{self.user_name} - Coins:{self.coins}- Level:{self.diff}"
 
 class AI(CPU):
-    pass
-    # changes difficuly level
-    # make probobility level smarter based on cards used, rounds, 
-
+    def __init__(self, easy, medium, hard):
+        self.easy = easy
+        self.medium = medium
+        self.hard = hard
 
 
 def create_players(num_players, num_CPU):
