@@ -1,6 +1,6 @@
 # Card game named tapon. Single player python command line game.
 
-My first program in python after learngin OOP and began using git. Decided to make public, update, and refactor some code after realizing how much fun I had when I needed a break.
+My first program in python after learning OOP and began using git. Decided to make public, update, and refactor some code after realizing how much fun I had when I needed a break.
 Plan is to make a multiplayer web app.
 
 Python version - 3.8.1
